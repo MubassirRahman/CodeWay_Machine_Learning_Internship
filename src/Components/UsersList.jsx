@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import "./UsersList.css";
-import "antd/dist/antd.css";
+
 import ReactPaginate from "react-paginate";
 import { AiFillDelete, AiFillEdit } from "react-icons/ai";
 import { Pagination } from "antd";
